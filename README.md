@@ -23,6 +23,7 @@
 - Collaborated with startup company Learnification, with IP transferred upon project completion
 
 ### Freelance Web Developer
+*Sept 2024 -*
 - Design and develop custom websites for clients
 - Implement responsive designs and modern web technologies
 - Collaborate with clients to meet their specific needs and vision
@@ -30,6 +31,7 @@
 ## 🚀 Featured Projects
 
 ### Automated Fake News Detection on Social Media
+*UBC Independent Research, Jan 2024 - April 2024*
 - Engineered data pipelines for processing 43,000+ examples
 - Implemented LSTM, RNN, and BERT models with 99% accuracy on news datasets
 - Optimized BERT for Bangladeshi tweets, achieving 73% accuracy
@@ -37,18 +39,21 @@
 - [View Project](https://github.com/joshndala/fake-news-detection/blob/main/Deep%20Learning%20on%20Fake%20News%20Detection%20Final%20Paper.pdf)
 
 ### Cyclistic Bike-Share Analysis
+*Google Capstone Project, Aug 2023 - Oct 2023*
 - Analyzed 2.9 million data entries using R and RStudio
 - Created visualizations with Tableau
 - Proposed strategic marketing improvements based on data insights
 - [View Project](https://github.com/joshndala/Cyclistic-Case-Study)
 
 ### Public Library System
+*Sept 2022 - Dec 2022*
 - Developed a booking system for a public library using Java and JavaFX
 - Integrated APIs including Google Books, TVMaze, and JokeAPI
 - Implemented MySQL database for data management
 - [View Project](https://github.com/joshndala/PublicLibraryIndivProj)
 
 ### ForumRank Website
+*Jan 2023 - April 2023*
 - Developed a custom-designed discussion post website
 - Implemented server-side scripting (PHP) and MySQL database integration
 - Utilized AJAX for real-time search results and interactive content filtering
