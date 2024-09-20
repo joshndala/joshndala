@@ -1,10 +1,15 @@
 # Hello, I'm Josh 👋
 
 🎓 Computer Science graduate from the University of British Columbia (Aug 2024)
+
 💻 Software Developer and Data Scientist
+
 🤖 Passionate about Machine Learning, AI, and Data Analysis
+
 🌐 Full-stack web development enthusiast
+
 🚀 Freelance web developer creating custom websites
+
 
 ## 💼 Professional Experience
 
@@ -41,6 +46,7 @@
 - Developed a booking system for a public library using Java and JavaFX
 - Integrated APIs including Google Books, TVMaze, and JokeAPI
 - Implemented MySQL database for data management
+- [View Project](https://github.com/joshndala/PublicLibraryIndivProj)
 
 ### ForumRank Website
 - Developed a custom-designed discussion post website
