@@ -1,6 +1,6 @@
 # Hello, I'm Josh 👋
 
-🎓 Computer Science graduate from the University of British Columbia (Aug 2024)
+🎓 Computer Science graduate from the University of British Columbia 
 
 💻 Software Developer and Data Scientist
 
@@ -8,55 +8,36 @@
 
 🌐 Full-stack web development enthusiast
 
-🚀 Freelance web developer creating custom websites
 
 
 ## 💼 Professional Experience
 
-### AI and Backend Developer, UBC for Learnification
-*Capstone Project, May 2024 - Aug 2024*
-- Led AI implementation using Microsoft's Phi-3 LLM through Ollama for an AI-powered assignment grading application
-- Developed backend with Express.js, Node.js, and MySQL
-- Contributed to frontend development with React and Material-UI
-- Improved grading processing speeds by 75% while maintaining data security
-- Conducted usability testing, improving user satisfaction by 20%
-- Collaborated with startup company Learnification, with IP transferred upon project completion
+### Web Developer @ TRIUMPH College Consulting
+*Aug 2024 - Dec 2024 | Toronto, Remote*
 
-### Freelance Web Developer
-*Sept 2024 -*
-- Design and develop custom websites for clients
-- Implement responsive designs and modern web technologies
-- Collaborate with clients to meet their specific needs and vision
+Built a comprehensive full-stack platform for a US-based educational consulting startup, enabling streamlined college application support for international students.
+
+**Tech Stack:** Next.js, Tailwind CSS, Node.js  
+**Key Features:** Dynamic content management, student progress showcase, consultation scheduling
+
+### AI & Backend Developer @ UBC for Learnification
+*May 2024 - Aug 2024 | UBC Capstone Project*
+
+Led full-stack development of an AI-powered assignment grading system for an ed-tech startup, achieving 75% faster grading speeds and 20% improved user satisfaction.
+
+**Tech Stack:** Express.js, Node.js, React, Material-UI, MySQL, Phi-3 LLM, Ollama  
+**DevOps:** Docker, GitHub Actions, Mocha/Chai, Jest
 
 ## 🚀 Featured Projects
 
-### Automated Fake News Detection on Social Media
-*UBC Independent Research, Jan 2024 - April 2024*
-- Engineered data pipelines for processing 43,000+ examples
-- Implemented LSTM, RNN, and BERT models with 99% accuracy on news datasets
-- Optimized BERT for Bangladeshi tweets, achieving 73% accuracy
-- Conducted sentiment analysis on fake vs. real news
-- [View Project](https://github.com/joshndala/fake-news-detection/blob/main/Deep%20Learning%20on%20Fake%20News%20Detection%20Final%20Paper.pdf)
-
-### Cyclistic Bike-Share Analysis
-*Google Capstone Project, Aug 2023 - Oct 2023*
-- Analyzed 2.9 million data entries using R and RStudio
-- Created visualizations with Tableau
-- Proposed strategic marketing improvements based on data insights
-- [View Project](https://github.com/joshndala/Cyclistic-Case-Study)
-
-### Public Library System
-*Sept 2022 - Dec 2022*
-- Developed a booking system for a public library using Java and JavaFX
-- Integrated APIs including Google Books, TVMaze, and JokeAPI
-- Implemented MySQL database for data management
-- [View Project](https://github.com/joshndala/PublicLibraryIndivProj)
-
-### ForumRank Website
-*Jan 2023 - April 2023*
-- Developed a custom-designed discussion post website
-- Implemented server-side scripting (PHP) and MySQL database integration
-- Utilized AJAX for real-time search results and interactive content filtering
+| Project | Timeline | Key Technologies | Description | Links |
+|---------|----------|------------------|-------------|-------|
+| Web Intent Classification System | Oct 2024 - Present | React, Python, Flask, AWS Bedrock, Llama 3 | A full-stack web application that analyzes website content and generates contextual questions to classify visitor intent. Features AWS DynamoDB for efficient data retrieval and data analysis. | [View Project](https://github.com/joshndala/web-visitor-classifier) |
+| Automated Fake News Detection | Jan 2024 - Apr 2024 | Python, TensorFlow, BERT, LSTM | Processed 43,000+ examples, achieving 99% accuracy on news datasets and 73% on Bangladeshi tweets. Conducted comprehensive sentiment analysis. | [View Project](https://github.com/joshndala/fake-news-detection/blob/main/Deep%20Learning%20on%20Fake%20News%20Detection%20Final%20Paper.pdf) |
+| Smartphone Price Prediction | Oct 2024 | Python, XGBoost, Random Forest | End-to-end ML pipeline with 96.5% prediction accuracy, processing 1,500+ entries with optimized ETL. Improved baseline accuracy by 4.5%. | [View Project](https://github.com/joshndala/phone-classification) |
+| Cyclistic Bike-Share Analysis | Aug 2023 - Oct 2023 | R, RStudio, Tableau | Analyzed 2.9 million data entries to derive strategic marketing insights for bike-sharing service. | [View Project](https://github.com/joshndala/Cyclistic-Case-Study) |
+| ForumRank Website | Jan 2023 - Apr 2023 | PHP, MySQL, AJAX | Custom discussion platform with real-time search, interactive filtering, and responsive design. | - |
+| Public Library System | Sept 2022 - Dec 2022 | Java, JavaFX, MySQL | Comprehensive library management system integrating Google Books, TVMaze, and JokeAPI. | [View Project](https://github.com/joshndala/PublicLibraryIndivProj) |
 
 ## 💼 Skills
 
@@ -75,7 +56,9 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 🛠 Tools & Platforms
+- Amazon Web Services
 - Google Cloud Platform
+- Docker
 - Google Colab
 - Jupyter Notebooks
 - Tableau
