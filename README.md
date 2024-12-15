@@ -13,7 +13,7 @@
 ## 💼 Professional Experience
 
 ### Web Developer @ TRIUMPH College Consulting
-*Aug 2024 - Dec 2024 | Toronto, Remote*
+*Aug 2024 - Dec 2024 | Toronto, ON, Canada (Remote)*
 
 Built a comprehensive full-stack platform for a US-based educational consulting startup, enabling streamlined college application support for international students.
 
@@ -21,7 +21,7 @@ Built a comprehensive full-stack platform for a US-based educational consulting 
 **Key Features:** Dynamic content management, student progress showcase, consultation scheduling
 
 ### AI & Backend Developer @ UBC for Learnification
-*May 2024 - Aug 2024 | UBC Capstone Project*
+*May 2024 - Aug 2024 | Kelowna, BC, Canada*
 
 Led full-stack development of an AI-powered assignment grading system for an ed-tech startup, achieving 75% faster grading speeds and 20% improved user satisfaction.
 
