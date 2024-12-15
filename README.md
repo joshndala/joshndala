@@ -17,7 +17,7 @@
 
 Built a comprehensive full-stack platform for a US-based educational consulting startup, enabling streamlined college application support for international students.
 
-**Tech Stack:** Next.js, Tailwind CSS, Node.js  
+**Tech Stack:** Next.js, Tailwind CSS  
 **Key Features:** Dynamic content management, student progress showcase, consultation scheduling
 
 ### AI & Backend Developer @ UBC for Learnification
