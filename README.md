@@ -13,7 +13,9 @@
 ### Web Developer @ TRIUMPH College Consulting
 *Aug 2024 - Dec 2024 | Toronto, ON, Canada (Remote)*
 
-Built a comprehensive full-stack platform for a US-based educational consulting startup, enabling streamlined college application support for international students.
+Built a comprehensive full-stack platform for a US-based educational consulting startup, enabling streamlined college application support for international students. 
+
+https://www.triumphcollegeinfo.com/
 
 **Tech Stack:** Next.js, Tailwind CSS  
 **Key Features:** Dynamic content management, student progress showcase, consultation scheduling
