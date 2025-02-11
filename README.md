@@ -2,7 +2,7 @@
 
 🎓 Computer Science graduate from the University of British Columbia 
 
-💻 Software Developer and Data Scientist
+💻 Software Developer and ML Engineer
 
 🤖 Passionate about Machine Learning, AI, and Data Analysis
 
@@ -32,7 +32,7 @@ Led full-stack development of an AI-powered assignment grading system for an ed-
 
 | Project | Timeline | Key Technologies | Description | Links |
 |---------|----------|------------------|-------------|-------|
-|Cover Letter Generator | Jan 2025 - Present | React, Python, FastAPI, AWS Bedrock, Llama 3, LangChain, AWS RDS, PostgreSQL, Firebase | A full-stack web app that generates a cover letter based on projects/experiences from the user, and a comparison rating between the user's skills/experiences to the job post | [View Github](https://github.com/joshndala/coverletter-ai) Live link coming soon |
+|Cover Letter Generator | Jan 2025 - Present | React, Python, FastAPI, AWS Bedrock, Llama 3, LangChain, AWS RDS, PostgreSQL, Firebase | A full-stack web app that generates a cover letter based on projects/experiences from the user, and a comparison rating between the user's skills/experiences to the job post. | [View Github](https://github.com/joshndala/coverletter-ai) Live link coming soon |
 | Web Intent Classification System | Oct 2024 - Dec 2024 | React, Python, Flask, AWS Bedrock, Llama 3 | A full-stack web application that analyzes website content and generates contextual questions to classify visitor intent. Features AWS DynamoDB for efficient data retrieval and data analysis. | [View Github](https://github.com/joshndala/web-visitor-classifier) |
 | Automated Fake News Detection | Jan 2024 - Apr 2024 | Python, TensorFlow, BERT, LSTM | Processed 43,000+ examples, achieving 99% accuracy on news datasets and 73% on Bangladeshi tweets. Conducted comprehensive sentiment analysis. | [View Paper and Resources](https://github.com/joshndala/fake-news-detection/blob/main/Deep%20Learning%20on%20Fake%20News%20Detection%20Final%20Paper.pdf) |
 | Smartphone Price Prediction | Oct 2024 | Python, XGBoost, Random Forest | End-to-end ML pipeline with 96.5% prediction accuracy, processing 1,500+ entries with optimized ETL. Improved baseline accuracy by 4.5%. | [View Github](https://github.com/joshndala/phone-classification) |
