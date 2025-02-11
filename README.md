@@ -6,8 +6,6 @@
 
 🤖 Passionate about Machine Learning, AI, and Data Analysis
 
-🌐 Full-stack web development enthusiast
-
 
 
 ## 💼 Professional Experience
