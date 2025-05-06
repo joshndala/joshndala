@@ -20,10 +20,10 @@ https://www.triumphcollegeinfo.com/
 **Tech Stack:** Next.js, Tailwind CSS  
 **Key Features:** Dynamic content management, student progress showcase, consultation scheduling
 
-### AI & Backend Developer @ UBC for Learnification
+### Full-Stack Software/AI Engineer @ Learnification
 *May 2024 - Aug 2024 | Kelowna, BC, Canada*
 
-Led full-stack development of an AI-powered assignment grading system for an ed-tech startup, achieving 75% faster grading speeds and 20% improved user satisfaction.
+Led full-stack development of an AI-powered assignment grading system for an ed-tech startup, Learnification, as part of a capstone project at UBC, achieving 75% faster grading speeds and 20% improved user satisfaction.
 
 **Tech Stack:** Express.js, Node.js, React, Material-UI, MySQL, Phi-3 LLM, Ollama  
 **DevOps:** Docker, GitHub Actions, Mocha/Chai, Jest
