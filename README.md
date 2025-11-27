@@ -1,86 +1,118 @@
-# Hello, I'm Josh 👋
+<div align="center">
 
-🎓 Computer Science graduate from the University of British Columbia 
+# Hello, I'm Josh
 
-💻 Software Developer and ML Engineer
+### Software Developer & ML Engineer
 
-🤖 Passionate about Machine Learning, AI, and Data Analysis
+*Computer Science Graduate, University of British Columbia*
 
+<a href="https://www.linkedin.com/in/joshua-ndala/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:jndala246@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://joshfolio.dev">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 
+<br />
 
-## 💼 Professional Experience
+I specialize in building **Full-Stack Applications**, **AI Agents**, and **RAG Systems**. My passion lies in bridging the gap between cutting-edge LLMs and production-ready software solutions.
+
+</div>
+
+---
+
+## Tech Stack
+
+### Full-Stack Development
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### AI & Machine Learning
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)
+
+---
+
+## Professional Experience
 
 ### Web Developer @ TRIUMPH College Consulting
-*Aug 2024 - Dec 2024 | Toronto, ON, Canada (Remote)*
-
-Built a comprehensive full-stack platform for a US-based educational consulting startup, enabling streamlined college application support for international students. 
-
-https://www.triumphcollegeinfo.com/
-
-**Tech Stack:** Next.js, Tailwind CSS  
-**Key Features:** Dynamic content management, student progress showcase, consultation scheduling
+*Aug 2024 - Dec 2024 | Remote*
+> Built a comprehensive full-stack platform for a US-based educational consulting startup.
+- **Impact:** Enabled streamlined college application support for international students via dynamic content management and consultation scheduling.
+- **Stack:** Next.js, Tailwind CSS.
+- [Visit Website](https://www.triumphcollegeinfo.com/)
 
 ### Full-Stack Software/AI Engineer @ Learnification
-*May 2024 - Aug 2024 | Kelowna, BC, Canada*
+*May 2024 - Aug 2024 | Kelowna, BC*
+> Led development of an AI-powered assignment grading system.
+- **Impact:** Achieved **75% faster grading speeds** and **20% improved user satisfaction**.
+- **Stack:** React, Node.js, MySQL, Phi-3 LLM, Docker, GitHub Actions.
 
-Led full-stack development of an AI-powered assignment grading system for an ed-tech startup, Learnification, as part of a capstone project at UBC, achieving 75% faster grading speeds and 20% improved user satisfaction.
+---
 
-**Tech Stack:** Express.js, Node.js, React, Material-UI, MySQL, Phi-3 LLM, Ollama  
-**DevOps:** Docker, GitHub Actions, Mocha/Chai, Jest
+## Featured AI & Software Projects
 
-## 🚀 Featured Projects
+### [CanTrip](https://github.com/joshndala/cantrip) (AI Agent Platform)
+*Aug 2024 - Present*
+An AI agent-powered travel planning platform that creates personalized Canadian itineraries using intelligent multi-agent systems.
+- **Tech:** Go (Gin), Python (LangGraph), Gemini LLM, Google Cloud.
+- **Highlights:** Multi-API integration (Weather, Places) and Phoenix Evaluation.
 
-| Project | Timeline | Key Technologies | Description | Links |
-|---------|----------|------------------|-------------|-------|
-|CanTrip| Aug 2025 -Now |Go (Gin), Python (LangGraph/LangChain), Gemini LLM, FastAPI, Phoenix Evaluation, Google Cloud Storage, Multi-API Integration (Weather, Places, Events) | An AI agent-powered travel planning platform that creates personalized Canadian itineraries, packing lists, and recommendations using intelligent multi-agent systems. | [View GitHub](https://github.com/joshndala/cantrip)|
-| CoachDeck (Formerly VAR Vendetta) | May 2025, July 2025 | Next.js (React), Typescript, Cohere AI (Embed, Command), Web Speech API, FAISS, PostgreSQL (Supabase) | An AI-powered sports coaching platform that automatically logs, categorizes, and analyzes real-time game events using voice transcription, player detection, and intelligent event separation to provide coaches with detailed session insights. | [View Github](https://github.com/joshndala/var-vendetta) <br> [View Site](https://coachdeck.app)|
-|CoverForMe | Jan 2025 - April 2025 | Next.js (React), FastAPI (Python), Llama 3 (AWS Bedrock), LangChain, Hugging Face, SerpApi, PostgreSQL (AWS RDS), Firebase | A full-stack web app that generates a cover letter based on projects/experiences from the user, and a comparison rating between the user's skills/experiences to the job post. | [View Github](https://github.com/joshndala/coverletter-ai) |
-| Shyft RAG App | Feb 2025 | React, FastAPI (Python), MaterialUI, OpenRouter (GPT, Claude, Mistral, etc), BM25, FAISS | A full-stack RAG system allowing users to upload PDFs & HTML and ask questions in real time. | [View Github](https://github.com/joshndala/shyft-rag-app) |
-| Web Intent Classification System | Oct 2024 - Dec 2024 | React, Python, Flask, AWS Bedrock, Llama 3 | A full-stack web application that analyzes website content and generates contextual questions to classify visitor intent. Features AWS DynamoDB for efficient data retrieval and data analysis. | [View Github](https://github.com/joshndala/web-visitor-classifier) |
-| Automated Fake News Detection | Jan 2024 - Apr 2024 | Python, TensorFlow, BERT, LSTM | Processed 43,000+ examples, achieving 99% accuracy on news datasets and 73% on Bangladeshi tweets. Conducted comprehensive sentiment analysis. | [View Paper and Resources](https://github.com/joshndala/fake-news-detection/blob/main/Deep%20Learning%20on%20Fake%20News%20Detection%20Final%20Paper.pdf) |
-| Smartphone Price Prediction | Oct 2024 | Python, XGBoost, Random Forest | End-to-end ML pipeline with 96.5% prediction accuracy, processing 1,500+ entries with optimized ETL. Improved baseline accuracy by 4.5%. | [View Github](https://github.com/joshndala/phone-classification) |
-| Cyclistic Bike-Share Analysis | Aug 2023 - Oct 2023 | R, RStudio, Tableau | Analyzed 2.9 million data entries to derive strategic marketing insights for bike-sharing service. | [View Project](https://github.com/joshndala/Cyclistic-Case-Study) |
-| ForumRank Website | Jan 2023 - Apr 2023 | PHP, MySQL, AJAX | Custom discussion platform with real-time search, interactive filtering, and responsive design. | Unavailable |
-| Public Library System | Sept 2022 - Dec 2022 | Java, JavaFX, MySQL | Comprehensive library management system integrating Google Books, TVMaze, and JokeAPI. | [View Project](https://github.com/joshndala/PublicLibraryIndivProj) |
+### [CoachDeck](https://github.com/joshndala/var-vendetta) (Sports Analytics)
+*May 2024 - July 2024*
+AI-powered sports coaching platform that logs and analyzes real-time game events using voice transcription.
+- **Tech:** Next.js, Cohere AI, Web Speech API, FAISS, Supabase.
+- **Highlights:** Real-time player detection and intelligent event separation.
+- - [Visit Website](https://www.coachdeck.app)
 
-## 💼 Skills
+### [CoverForMe](https://github.com/joshndala/coverletter-ai) (GenAI Tool)
+*Jan 2024 - April 2024*
+Full-stack app generating cover letters by comparing user projects to job descriptions using RAG.
+- **Tech:** Next.js, FastAPI, Llama 3 (Bedrock), LangChain, AWS RDS.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+<details>
+<summary><b>VIEW MORE PROJECTS (Click to Expand)</b></summary>
+<br />
 
-## 🛠 Tools & Platforms
-- Amazon Web Services
-- Google Cloud Platform
-- Docker
-- Google Colab
-- Jupyter Notebooks
-- Tableau
-- RStudio
-- Scikit-Learn
-- Matplotlib & Seaborn
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[Shyft RAG App](https://github.com/joshndala/shyft-rag-app)** | RAG system for PDF/HTML QA. | React, FastAPI, OpenRouter |
+| **[Web Intent Classifier](https://github.com/joshndala/web-visitor-classifier)** | Analyzes site content to classify visitor intent. | AWS Bedrock, DynamoDB |
+| **[Fake News Detection](https://github.com/joshndala/fake-news-detection)** | **99% accuracy** on news datasets (43k+ examples). | Python, BERT, LSTM |
+| **[Phone Price Prediction](https://github.com/joshndala/phone-classification)** | End-to-end ML pipeline (**96.5% accuracy**). | XGBoost, Random Forest |
+| **[Cyclistic Analysis](https://github.com/joshndala/Cyclistic-Case-Study)** | Analysis of 2.9M data entries. | R, Tableau |
 
-## 🌱 I'm currently learning
-- Advanced Machine Learning techniques
-  - Currently pursuing IBM's Machine Learning Professional Certificate
-  - Deep dive into various model types and their applications
-  - Recent focus on regularization techniques to prevent overfitting
-- Natural Language Processing
-- Cloud computing platforms
-- Data visualization tools
+</details>
 
-## 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/joshua-ndala/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:jndala246@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/joshndala)
+---
 
+## Currently Learning
+I am deepening my expertise in **ML Ops** and **Production AI**:
+* **IBM Machine Learning Professional Certificate:** Focusing on regularization techniques to prevent overfitting.
+* **Cloud Architecture:** Advanced deployment patterns on AWS and GCP.
+* **NLP:** Experimenting with new embedding models and vector databases.
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joshndala&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshndala&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook" height="150" alt="languages graph" />
+</div>
