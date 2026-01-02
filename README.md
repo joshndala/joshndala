@@ -53,6 +53,10 @@ I specialize in building **Full-Stack Applications**, **AI Agents**, and **RAG S
 
 ## Professional Experience
 
+### Software Engineer Intern @ DevFortress
+*Dec 2024 - Present | Toronto, ON (Remote)*
+> Tinkering...
+
 ### Web Developer @ TRIUMPH College Consulting
 *Aug 2024 - Dec 2024 | Remote*
 > Built a comprehensive full-stack platform for a US-based educational consulting startup.
