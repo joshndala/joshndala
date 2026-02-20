@@ -33,6 +33,7 @@ I specialize in building **Full-Stack Applications**, **AI Agents**, and **RAG S
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -73,15 +74,30 @@ I specialize in building **Full-Stack Applications**, **AI Agents**, and **RAG S
 ---
 
 ## Featured AI & Software Projects
+### [The Third Act](https://github.com/joshndala/third-act) (Movie Journaling Application)
+*Feb 2026 - Now*
+
+A simple, personal movie diary that runs on your computer and lets you capture what you watched and how each film made you feel, in a beautiful, immersive way.
+- **Tech:** Java, JavaFX, SQLite, Maven
+- **Highlights:** Local first; rich, emotion-focused logging for each movie
+
+### [Hylite Studio](https://github.com/joshndala/glimpse) (AI Sports Audit Tool)
+*Jan 2026 - Feb 2026*
+
+An AI-powered sports scouting tool that reviews player videos, stats, and reports together so teams can quickly spot strengths, risks, and best-fit recruits with clear, side-by-side insights.
+- **Tech:** Vue 3, Go (Golang), Gemini 3 Pro, GenAI Go SDK
+- **Highlights:** Upload mixed scouting material (video, stats, PDFs) into one case file
 
 ### [CanTrip](https://github.com/joshndala/cantrip) (AI Agent Platform)
-*Aug 2024 - Present*
+*Aug 2024 - Oct 2024*
+
 An AI agent-powered travel planning platform that creates personalized Canadian itineraries using intelligent multi-agent systems.
 - **Tech:** Go (Gin), Python (LangGraph), Gemini LLM, Google Cloud.
 - **Highlights:** Multi-API integration (Weather, Places) and Phoenix Evaluation.
 
 ### [CoachDeck](https://github.com/joshndala/var-vendetta) (Sports Analytics)
 *May 2024 - July 2024*
+
 AI-powered sports coaching platform that logs and analyzes real-time game events using voice transcription.
 - **Tech:** Next.js, Cohere AI, Web Speech API, FAISS, Supabase.
 - **Highlights:** Real-time player detection and intelligent event separation.
@@ -89,6 +105,7 @@ AI-powered sports coaching platform that logs and analyzes real-time game events
 
 ### [CoverForMe](https://github.com/joshndala/coverletter-ai) (GenAI Tool)
 *Jan 2024 - April 2024*
+
 Full-stack app generating cover letters by comparing user projects to job descriptions using RAG.
 - **Tech:** Next.js, FastAPI, Llama 3 (Bedrock), LangChain, AWS RDS.
 
