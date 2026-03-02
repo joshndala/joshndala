@@ -33,7 +33,7 @@ I specialize in building **Full-Stack Applications**, **AI Agents**, and **RAG S
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -73,55 +73,59 @@ I specialize in building **Full-Stack Applications**, **AI Agents**, and **RAG S
 
 ---
 
-## Featured AI & Software Projects
-### [The Third Act](https://github.com/joshndala/third-act) (Movie Journaling Application)
-*Feb 2026 - Now*
+## Featured Projects
 
-A simple, personal movie diary that runs on your computer and lets you capture what you watched and how each film made you feel, in a beautiful, immersive way.
+### [The Third Act](https://github.com/joshndala/third-act) (Movie Journaling Application)
+*Feb 2026 - Present*
+
+A local-first, personal movie diary that runs on your computer, designed to capture viewing history and emotional resonance in an immersive interface.
 - **Tech:** Java, JavaFX, SQLite, Maven
-- **Highlights:** Local first; rich, emotion-focused logging for each movie
+- **Highlights:** Privacy-focused architecture with rich, emotion-centric data logging.
 
 ### [Hylite Studio](https://github.com/joshndala/glimpse) (AI Sports Audit Tool)
 *Jan 2026 - Feb 2026*
 
-An AI-powered sports scouting tool that reviews player videos, stats, and reports together so teams can quickly spot strengths, risks, and best-fit recruits with clear, side-by-side insights.
-- **Tech:** Vue 3, Go (Golang), Gemini 3 Pro, GenAI Go SDK
-- **Highlights:** Upload mixed scouting material (video, stats, PDFs) into one case file
-
-### [CanTrip](https://github.com/joshndala/cantrip) (AI Agent Platform)
-*Aug 2024 - Oct 2024*
-
-An AI agent-powered travel planning platform that creates personalized Canadian itineraries using intelligent multi-agent systems.
-- **Tech:** Go (Gin), Python (LangGraph), Gemini LLM, Google Cloud.
-- **Highlights:** Multi-API integration (Weather, Places) and Phoenix Evaluation.
+An AI-powered sports scouting application that aggregates player footage, statistics, and reports to identify strengths, risks, and recruitment fits via side-by-side insights.
+- **Tech:** Vue 3, Go, Gemini 3 Pro, GenAI Go SDK
+- **Highlights:** Multi-modal ingestion pipeline for cross-referencing video, stats, and PDFs into unified case files.
 
 ### [CoachDeck](https://github.com/joshndala/var-vendetta) (Sports Analytics)
 *May 2024 - July 2024*
 
-AI-powered sports coaching platform that logs and analyzes real-time game events using voice transcription.
+An AI-powered sports coaching platform that logs and analyzes real-time game events using voice transcription.
 - **Tech:** Next.js, Cohere AI, Web Speech API, FAISS, Supabase.
 - **Highlights:** Real-time player detection and intelligent event separation.
-- - [Visit Website](https://www.coachdeck.app)
+- [Visit Website](https://www.coachdeck.app)
 
-### [CoverForMe](https://github.com/joshndala/coverletter-ai) (GenAI Tool)
-*Jan 2024 - April 2024*
+---
 
-Full-stack app generating cover letters by comparing user projects to job descriptions using RAG.
-- **Tech:** Next.js, FastAPI, Llama 3 (Bedrock), LangChain, AWS RDS.
+## Open Source & AI Tools (MCP)
 
-<details>
-<summary><b>VIEW MORE PROJECTS (Click to Expand)</b></summary>
-<br />
+I build custom Model Context Protocol (MCP) servers to extend the capabilities of AI assistants like Claude Desktop with local and cloud-based tool integrations.
+
+### [Music Media MCP Server](https://github.com/joshndala/music-media-mcp)
+An MCP server that generates AI-powered music videos from image or video inputs by orchestrating a multi-model pipeline.
+- **Tech:** Python, Gemini Vision, Google Lyria 3, FFmpeg, Google Cloud Run
+- **Highlights:** Automates visual analysis using Gemini Vision to prompt Lyria 3 for dynamic soundtrack generation, merging audio and media into an inline HTML video player.
+
+### [Movie Battle MCP Server](https://github.com/joshndala/movie-mcp-server)
+An MCP server that fetches real-world movie data from the OMDb API to generate visual, side-by-side comparison "battle cards" for film analysis.
+- **Tech:** Python, OMDb API
+- **Highlights:** Provides real-time visual analytics comparing Rotten Tomatoes scores and Box Office performance with dynamic, theme-based HTML styling.
+
+---
+
+## Other Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| **[CanTrip](https://github.com/joshndala/cantrip)** | Multi-agent travel platform generating personalized Canadian itineraries. | Go (Gin), Python (LangGraph), Gemini LLM, GCP |
+| **[CoverForMe](https://github.com/joshndala/coverletter-ai)** | App generating cover letters by matching user projects to job descriptions via RAG. | Next.js, FastAPI, Llama 3, LangChain |
 | **[Shyft RAG App](https://github.com/joshndala/shyft-rag-app)** | RAG system for PDF/HTML QA. | React, FastAPI, OpenRouter |
 | **[Web Intent Classifier](https://github.com/joshndala/web-visitor-classifier)** | Analyzes site content to classify visitor intent. | AWS Bedrock, DynamoDB |
 | **[Fake News Detection](https://github.com/joshndala/fake-news-detection)** | **99% accuracy** on news datasets (43k+ examples). | Python, BERT, LSTM |
 | **[Phone Price Prediction](https://github.com/joshndala/phone-classification)** | End-to-end ML pipeline (**96.5% accuracy**). | XGBoost, Random Forest |
 | **[Cyclistic Analysis](https://github.com/joshndala/Cyclistic-Case-Study)** | Analysis of 2.9M data entries. | R, Tableau |
-
-</details>
 
 ---
 
@@ -130,10 +134,3 @@ I am deepening my expertise in **ML Ops** and **Production AI**:
 * **IBM Machine Learning Professional Certificate:** Focusing on regularization techniques to prevent overfitting.
 * **Cloud Architecture:** Advanced deployment patterns on AWS and GCP.
 * **NLP:** Experimenting with new embedding models and vector databases.
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshndala&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshndala&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook" height="150" alt="languages graph" />
-</div>
