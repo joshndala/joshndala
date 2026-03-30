@@ -102,6 +102,12 @@ An AI-powered sports coaching platform that logs and analyzes real-time game eve
 ## Open Source & AI Tools (MCP)
 
 I build custom Model Context Protocol (MCP) servers to extend the capabilities of AI assistants like Claude Desktop with local and cloud-based tool integrations.
+### [mnemo](https://github.com/joshndala/mnemo-agent) (Agent Memory CLI)
+*Mar 2026 - Present*
+
+A local-first CLI for managing agent long-term memory across frameworks like Mem0, Letta, and local filesystems — like `git` but for what your agents know.
+- **Tech:** Python, Click, FastAPI, Pydantic, TF-IDF, Alpine.js
+- - **Highlights:** 16 CLI commands, MCP 2024-11-05 compliant (stdio + HTTP/JSON-RPC 2.0), web dashboard UI, S3/R2 push-pull sync, multi-provider normalized schema.
 
 ### [Music Media MCP Server](https://github.com/joshndala/music-media-mcp)
 An MCP server that generates AI-powered music videos from image or video inputs by orchestrating a multi-model pipeline.
