@@ -55,8 +55,11 @@ I specialize in building **Full-Stack Applications**, **AI Agents**, and **RAG S
 ## Professional Experience
 
 ### Software Engineer Intern @ DevFortress
-*Dec 2024 - Present | Toronto, ON (Remote)*
-> Tinkering...
+*Dec 2025 - Mar 2026 | Toronto, ON (Remote)*
+- Engineered a **40% performance increase** for a high-traffic WordPress client by migrating to QUIC.cloud CDN and tuning LiteSpeed caching (GTmetrix score: 50% → 90%).
+- Built a multimodal AI agent with Python (FastAPI) to automate synchronized music generation for social media assets, streamlining content manager workflows.
+- Owned full technical development of the company's Shopify store; engineered custom Liquid themes and CTA integrations that drove a **30% increase** in print-on-demand feature adoption.
+- Developed a full-stack AI Shopify Page Builder MVP with React and Remix, engineering a multi-phase generation pipeline and virtual staging architecture for safe, near-instant layout previews.
 
 ### Web Developer @ TRIUMPH College Consulting
 *Aug 2024 - Dec 2024 | Remote*
@@ -75,6 +78,13 @@ I specialize in building **Full-Stack Applications**, **AI Agents**, and **RAG S
 
 ## Featured Projects
 
+### [mnemo](https://github.com/joshndala/mnemo-agent) (Agent Memory CLI)
+*Mar 2026 - Present*
+
+A local-first CLI for managing agent long-term memory across frameworks — like `git` but for what your agents know.
+- **Tech:** Python, Click, FastAPI, Pydantic, TF-IDF, Alpine.js
+- **Highlights:** Published to PyPI as `mnemo-agent` with **600+ downloads** and 5+ GitHub stars. Supports 16 CLI commands, MCP 2024-11-05 compliant (stdio + HTTP/JSON-RPC 2.0), web dashboard UI, S3/R2 push-pull sync, and a multi-provider normalized schema across Mem0, Letta, and local filesystems.
+
 ### [The Third Act](https://github.com/joshndala/third-act) (Movie Journaling Application)
 *Feb 2026 - Present*
 
@@ -86,15 +96,15 @@ A local-first, personal movie diary that runs on your computer, designed to capt
 *Jan 2026 - Feb 2026*
 
 An AI-powered sports scouting application that aggregates player footage, statistics, and reports to identify strengths, risks, and recruitment fits via side-by-side insights.
-- **Tech:** Vue 3, Go, Gemini 3 Pro, GenAI Go SDK
-- **Highlights:** Multi-modal ingestion pipeline for cross-referencing video, stats, and PDFs into unified case files.
+- **Tech:** Vue 3, Go, Gemini, GenAI Go SDK
+- **Highlights:** Multi-modal ingestion pipeline for cross-referencing video, stats, and PDFs into unified case files. Automatic mode-switching between Audit, Scout, and Analyst AI workflows based on uploaded file types.
 
 ### [CoachDeck](https://github.com/joshndala/var-vendetta) (Sports Analytics)
-*May 2024 - July 2024*
+*May 2025 - Aug 2025*
 
 An AI-powered sports coaching platform that logs and analyzes real-time game events using voice transcription.
 - **Tech:** Next.js, Cohere AI, Web Speech API, FAISS, Supabase.
-- **Highlights:** Real-time player detection and intelligent event separation.
+- **Highlights:** Hybrid retrieval (BM25 + FAISS + Cohere reranking) over 1024-dim embeddings; sport-specific prompt templates across 4+ sports for terminology-aware analysis and automatic moment tagging.
 - [Visit Website](https://www.coachdeck.app)
 
 ---
@@ -102,12 +112,6 @@ An AI-powered sports coaching platform that logs and analyzes real-time game eve
 ## Open Source & AI Tools (MCP)
 
 I build custom Model Context Protocol (MCP) servers to extend the capabilities of AI assistants like Claude Desktop with local and cloud-based tool integrations.
-### [mnemo](https://github.com/joshndala/mnemo-agent) (Agent Memory CLI)
-*Mar 2026 - Present*
-
-A local-first CLI for managing agent long-term memory across frameworks like Mem0, Letta, and local filesystems — like `git` but for what your agents know.
-- **Tech:** Python, Click, FastAPI, Pydantic, TF-IDF, Alpine.js
-- - **Highlights:** 16 CLI commands, MCP 2024-11-05 compliant (stdio + HTTP/JSON-RPC 2.0), web dashboard UI, S3/R2 push-pull sync, multi-provider normalized schema.
 
 ### [Music Media MCP Server](https://github.com/joshndala/music-media-mcp)
 An MCP server that generates AI-powered music videos from image or video inputs by orchestrating a multi-model pipeline.
@@ -132,11 +136,3 @@ An MCP server that fetches real-world movie data from the OMDb API to generate v
 | **[Fake News Detection](https://github.com/joshndala/fake-news-detection)** | **99% accuracy** on news datasets (43k+ examples). | Python, BERT, LSTM |
 | **[Phone Price Prediction](https://github.com/joshndala/phone-classification)** | End-to-end ML pipeline (**96.5% accuracy**). | XGBoost, Random Forest |
 | **[Cyclistic Analysis](https://github.com/joshndala/Cyclistic-Case-Study)** | Analysis of 2.9M data entries. | R, Tableau |
-
----
-
-## Currently Learning
-I am deepening my expertise in **ML Ops** and **Production AI**:
-* **IBM Machine Learning Professional Certificate:** Focusing on regularization techniques to prevent overfitting.
-* **Cloud Architecture:** Advanced deployment patterns on AWS and GCP.
-* **NLP:** Experimenting with new embedding models and vector databases.
